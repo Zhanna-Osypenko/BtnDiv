@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.btn {
+    padding: 5px;
+    background-color: rgb(181, 177, 177);
+    cursor: pointer;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.squareRed {
+    background-color: red;
+}
+
+.squareRedActive {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
